@@ -2,7 +2,7 @@
 
 ### 1. Title
 
-Thanks to [@DenverCoder1](https://github.com/denvercoder1)'s svg [repo](https://github.com/denvercoder1/readme-typing-svg) I could add this cool typewriter-effect text. Using the [Doto](https://fonts.google.com/specimen/Doto) font from Google Fonts. 
+Thanks to [@DenverCoder1](https://github.com/denvercoder1)'s svg [repo](https://github.com/denvercoder1/readme-typing-svg) I could add the cool typewriter-effect text. Using the [Doto](https://fonts.google.com/specimen/Doto) font from Google Fonts. 
 
 ### 2. Comic book style illustration
 
@@ -20,4 +20,4 @@ Then since chatGPT could not change the aspect ratio, and got a few details wron
 
 ### 3. LinkedIn badge
 
-Thanks to [@badges](https://github.com/badges)' shields [repo](https://github.com/badges/shields) I could add this cool badge pointing to my LinkedIn page.
+Thanks to [@badges](https://github.com/badges)' shields [repo](https://github.com/badges/shields) I could add the cool badge pointing to my LinkedIn page.
