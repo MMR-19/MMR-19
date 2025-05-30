@@ -7,7 +7,11 @@ Thanks to @DenverCoder1's svg [repo](https://github.com/denvercoder1/readme-typi
 ### 2. Comic book style illustration
 
 Here I've combined a few different outputs from chatGPT (using the 4o model):
-
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 <table border="0">
   <tr>
     <td><img src="images/v1.png"></td>
@@ -16,6 +20,13 @@ Here I've combined a few different outputs from chatGPT (using the 4o model):
     <td><img src="images/v4.png"></td>
   </tr>
  </table>
+
+ <p align="center">
+  <img src="images/v1.png" width="22%">&nbsp;
+  <img src="images/v2.png" width="22%">&nbsp;
+  <img src="images/v3.png" width="22%">&nbsp;
+  <img src="images/v4.png" width="22%">
+</p>
 
 Then since chatGPT could not change the aspect ratio, and got a few details wrong, I spent a few hours editing and combining the outputs on Procreate and Figma.
 
