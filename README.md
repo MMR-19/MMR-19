@@ -10,7 +10,7 @@
 
 </h3>
 
-◈ Master student of Data Science and Engineering at [Técnico Lisboa]. Developing my Master's Thesis in Open-ended Named Entity Recognition, partnering with NeuralShift.
+◈ Master student of Data Science and Engineering at [Técnico Lisboa](https://tecnico.ulisboa.pt/en/education/courses/masters-programmes/data-science-and-engineering/). Developing my Master's Thesis in Open-ended Named Entity Recognition, partnering with NeuralShift.
 
 ◈ Perfecting how to build & deploy AI with impact. Currently following some online courses on ML Engineering.
 
