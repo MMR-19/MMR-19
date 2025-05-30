@@ -18,4 +18,6 @@
 
 ◈ Experienced .NET software developer. Co-founded a spinoff software company. Consulted on several projects and managed a small team of developers.
 
+<hr> 
+
 See references and contributions for this README.md file [here](ref.md).
