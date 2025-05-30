@@ -8,7 +8,7 @@ Thanks to @DenverCoder1's svg [repo](https://github.com/denvercoder1/readme-typi
 
 Here I've combined a few different outputs from chatGPT (using the 4o model):
 
-<table>
+<table border="0">
   <tr>
     <td><img src="images/v1.png"></td>
     <td><img src="images/v2.png"></td>
@@ -18,10 +18,6 @@ Here I've combined a few different outputs from chatGPT (using the 4o model):
  </table>
 
 Then since chatGPT could not change the aspect ratio, and got a few details wrong, I spent a few hours editing and combining the outputs on Procreate and Figma.
-
-<h3 align="center">
-   <img src="images/comic.png" width="50%">
-</h4>
 
 ### 3. LinkedIn badge
 
