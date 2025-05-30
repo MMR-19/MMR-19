@@ -7,12 +7,7 @@ Thanks to @DenverCoder1's svg [repo](https://github.com/denvercoder1/readme-typi
 ### 2. Comic book style illustration
 
 Here I've combined a few different outputs from chatGPT (using the 4o model):
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-<table border="0">
+<table style="border: none !important;">
   <tr>
     <td><img src="images/v1.png"></td>
     <td><img src="images/v2.png"></td>
