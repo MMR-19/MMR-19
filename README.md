@@ -1,6 +1,8 @@
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=40&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Hey+there!;I'm+Miguel+:);Welcome+to+my+GitHub+page!#gh-dark-mode-only" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=40&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=1000&height=100&lines=Hey+there!;I'm+Miguel+:);Welcome+to+my+GitHub+page!#gh-light-mode-only" />
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Doto&size=40&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Hey+there!;I'm+Miguel+:);Welcome+to+my+GitHub+page!">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=40&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=1000&height=100&lines=Hey+there!;I'm+Miguel+:);Welcome+to+my+GitHub+page!">
+</picture>
 
 </h4>
 
